@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Behnam Ardakanian 👋
 
-<!--
-**bardakanian/bardakanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub — where I explore ideas, build useful things, and keep learning in public.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building practical tools and data-driven solutions
+- 🌱 Growing across software, cloud, and automation
+- 💡 Interested in thoughtful systems that make work simpler
+- 🤝 Open to collaboration and new ideas
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## Project highlights
+
+| Focus | What I enjoy building |
+| --- | --- |
+| 🐍 Automation | Small, reliable tools that turn repetitive work into simple workflows. |
+| 📊 Data | Clear data models, useful queries, and insights people can act on. |
+| ☁️ Cloud | Maintainable cloud-ready solutions with a practical mindset. |
+
+## Let's connect
+
+- [GitHub](https://github.com/bardakanian)
+- [Start a conversation](https://github.com/bardakanian/bardakanian/issues/new)
+
+> Thanks for stopping by — feel free to explore my work and say hello!
