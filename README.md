@@ -2,7 +2,7 @@
 
 ### Cloud, customer experience, and data-driven problem solving
 
-I'm an MBA candidate and Computer Information Systems graduate with two years of experience supporting enterprise customers at Amazon Web Services. My work sits at the intersection of **cloud technology, customer success, data analytics, and process optimization**—translating technical signals into clear decisions, better workflows, and stronger customer outcomes.
+I'm an MBA candidate and Computer Information Systems graduate with experience supporting enterprise customers at Amazon Web Services. My work sits at the intersection of **cloud technology, customer success, data analytics, and process optimization**—translating technical signals into clear decisions, better workflows, and stronger customer outcomes.
 
 - ☁️ Supported enterprise customers across **Amazon Connect** and **AWS Amplify**, managing approximately 30 cases per month and coordinating high-severity escalations with engineering teams and Technical Account Managers.
 - 📊 Build local-first analytics and decision-support applications with **Python, SQL, SQLite, and PySide6**.
