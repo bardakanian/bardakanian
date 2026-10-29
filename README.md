@@ -52,6 +52,10 @@ An offline MBA strategy simulator that connects growth, profitability, hiring, f
 
 A privacy-first PySide6 desktop app that indexes local photos and videos with SQLite, resurfaces memories by calendar date, and provides responsive gallery and library analytics without cloud uploads.
 
+### [Photo Library](https://github.com/bardakanian/PhotoLibrary)
+
+A fast, private PySide6 and SQLite desktop library for the photos and videos in one folder. It stays smooth at 50,000+ items, with month-grouped browsing, Live Photo support, automatic updates when files change, and library insights, all without cloud uploads.
+
 ## What You'll Find Here
 
 My recent public work emphasizes:
