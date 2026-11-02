@@ -9,6 +9,12 @@ I'm an MBA candidate and Computer Information Systems graduate with experience s
 - ⚙️ Use structured analysis and AI-assisted development to streamline recurring work, explain tradeoffs, and turn business requirements into practical tools.
 - 🎯 Interested in customer success, technical account management, product management, and cloud-focused roles.
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="A pixel-art koi drawn nightly from my public GitHub activity" />
+  <br />
+  <sub>My koi, redrawn every night from my GitHub activity by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.</sub>
+</p>
+
 ## Tech Stack
 
 ### Languages
