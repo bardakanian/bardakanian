@@ -42,25 +42,25 @@ I'm an MBA candidate and Computer Information Systems graduate with experience s
 
 ## Featured Projects
 
+### ⭐ [Startup CEO Simulator](https://github.com/bardakanian/startup-ceo-simulator) — main project
+
+An offline MBA strategy simulator where you lead a fictional SaaS company through 12 quarters. A transparent rules engine connects price, marketing, product investment, hiring, and funding to growth, profitability, liquidity, valuation, and founder control, with seeded market events, board dilemmas, three board objectives, and an exportable PDF board report.
+
 ### [Customer Success Intelligence Dashboard](https://github.com/bardakanian/customer-success-intelligence-dashboard)
 
-A Python, PySide6, and SQLite decision-support application that consolidates fictional SaaS adoption, support, engagement, sentiment, revenue, and renewal data into explainable health scores, risk detection, Customer 360 profiles, and recommended next actions.
+A Python, PySide6, and SQLite decision-support application that consolidates fictional SaaS adoption, support, engagement, sentiment, revenue, and renewal data into explainable health scores, 12-week health trends, multi-signal risk detection, ARR-at-risk and renewal analysis, Customer 360 profiles, and recommended next actions.
 
 ### [MarginPilot](https://github.com/bardakanian/MarginPilot)
 
-A local-first profit scenario analyzer that turns pricing, volume, cost, and marketing assumptions into financial KPIs, sensitivity analysis, Monte Carlo risk estimates, and management-ready insights.
-
-### [Startup CEO Simulator](https://github.com/bardakanian/startup-ceo-simulator)
-
-An offline MBA strategy simulator that connects growth, profitability, hiring, funding, liquidity, valuation, and founder control through a transparent 12-quarter rules engine.
+A local-first profit scenario analyzer that turns pricing, volume, cost, and marketing assumptions into financial KPIs, price-elasticity and sensitivity analysis, Monte Carlo risk estimates, a management assessment, and one-page PDF executive summaries.
 
 ### [On This Day Photo Viewer](https://github.com/bardakanian/on-this-day-photo-viewer)
 
-A privacy-first PySide6 desktop app that indexes local photos and videos with SQLite, resurfaces memories by calendar date, and provides responsive gallery and library analytics without cloud uploads.
+A privacy-first PySide6 desktop app for macOS and Windows that indexes local photos and videos with SQLite, resurfaces memories by calendar date, and offers a full-window viewer, a searchable video library, and library insights without cloud uploads.
 
 ### [Photo Library](https://github.com/bardakanian/PhotoLibrary)
 
-A fast, private PySide6 and SQLite desktop library for the photos and videos in one folder. It stays smooth at 50,000+ items, with month-grouped browsing, Live Photo support, automatic updates when files change, and library insights, all without cloud uploads.
+A fast, private PySide6 and SQLite desktop library for the photos and videos in your folders. It stays smooth at 50,000+ items, with month-grouped browsing, Live Photo support, automatic updates when files change, and library insights, all without cloud uploads.
 
 ## What You'll Find Here
 
